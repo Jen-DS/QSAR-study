@@ -1,7 +1,7 @@
 # QSAR-study
 
 ## Project Title: 
-Comparison of machine learning models for predicting PPARs activators
+### Comparison of machine learning models for predicting PPARs activators
 
 ## Research Objectives:
 We aimed to utilise multiple machine learning models to predict the biological activities of compounds for the target protein (PPAR alpha).
